@@ -1,12 +1,48 @@
+/*common styles*/
+body{
+font-family:Montserrat,sans-serif;
+}
+a{
+text-decoration: none;
+}
+button{
+font-family: inherit;
+}
+.section{
+
+}
+
+
+
 /*header styles*/
 
 .header{
 }
 .header-nav{
 }
-.header-link{
+.logo{color:rgba(77, 90, 229, 1);
+font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+}
+.studio{color: rgba(46, 47, 66, 1);
+    font-family: 'Raleway';
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;    
+        letter-spacing: 0.03em;
+}
+.header-list{
 }
 .header-item{
+}
+.header-link{
+font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 .header-address{
 }
