@@ -1,6 +1,8 @@
 /*common styles*/
 body{
 font-family:Roboto,sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 /*Reset*/
 ul,ol{
@@ -30,16 +32,21 @@ font-weight: 500;
     color: #2E2F42;
 }
 .logo{color:rgba(77, 90, 229, 1);
+    font-family: Raleway,sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
+
 }
 .studio{color: rgba(46, 47, 66, 1);
+    font-family: Raleway, sans-serif;
         font-weight: 800;
         font-size: 18px;
-        line-height: 21px;    
+        line-height: 1.17;    
         letter-spacing: 0.03em;
+        text-transform: uppercase;
 }
 .header-list{
 }
@@ -201,17 +208,20 @@ background: #F4F4FD;
     border-radius: 4px;
     color: #4D5AE5;
  }
- .portfolio-btn:hover{
+ .portfolio-btn:hover,:focus{
     color: #FFFFFF;
         background: #404BBF;
  }
-.project-list{
+
+.list{
+    list-style: none;
+    text-decoration: none;
 }
-.project-item{
+.list-item{
 }
- .project-service-name{
+ .list-service-name{
  }
- .project-service-area{
+ .list-service-area{
  }
 
 
