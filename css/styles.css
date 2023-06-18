@@ -95,9 +95,10 @@ font-weight: 500;
     font-style: normal;
         font-weight: 700;
         font-size: 56px;
-        line-height: 60px;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         color: #FFFFFF;
+        text-align: center;
 }
 .hero-btn{ 
     font-weight: 500;
@@ -113,7 +114,7 @@ color: #FFFFFF;
 /*Advantages section styles*/
 .advantages{
 }
-.advantages-list{
+.list{
 }
 .advantages-item{
 }
@@ -137,12 +138,14 @@ font-weight: 400;
 .product-images-title{
 font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1,11;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    text-align: center;
+    text-transform: capitalize;
 }
 
-.product-images-list{
+.list{
 }
 .product-images-item{
 }
@@ -153,11 +156,13 @@ font-weight: 700;
 .developers-title{
 font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1,11;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    text-align: center;
+        text-transform: capitalize;
 }
-.developers-list{
+.list{background-color: #FFFFFF;
 }
 .developer-information{
 }
