@@ -1,34 +1,41 @@
 /*common styles*/
 body{
-font-family:Montserrat,sans-serif;
+font-family:Roboto,sans-serif;
+}
+/*Reset*/
+ul,ol{
+    list-style: none;
 }
 a{
 text-decoration: none;
+color: currentColor;
 }
 button{
 font-family: inherit;
+cursor: pointer;
 }
 .section{
 
 }
-
-
-
 /*header styles*/
 
-.header{
+.header{ 
+background: #FFFFFF;
 }
 .header-nav{
+font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 .logo{color:rgba(77, 90, 229, 1);
-font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
     letter-spacing: 0.03em;
 }
 .studio{color: rgba(46, 47, 66, 1);
-    font-family: 'Raleway';
         font-weight: 800;
         font-size: 18px;
         line-height: 21px;    
@@ -47,18 +54,41 @@ font-weight: 500;
 .header-address{
 }
 .header-address-mail{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 .header-address-tel{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;   
+        color: #434455;
 }
 /*main*/
 .main{
 }
 /*Hero styles*/
 .hero-section{
+    background-color:#2E2F42; ;
 }
 .hero-title{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
 }
-.hero-btn{
+.hero-btn{ 
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.04em;
+background: #4D5AE5;
+color: #FFFFFF;
 }
 /*Advantages section styles*/
 .advantages{
@@ -68,13 +98,28 @@ font-weight: 500;
 .advantages-item{
 }
 .advantages-name{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
 .advatages-text{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 /*What are we doing*/
 .product-images{
 }
 .product-images-title{
+font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .product-images-list{
@@ -83,24 +128,67 @@ font-weight: 500;
 }
 /*Developers team*/
 .developers-section{
+    background: #F4F4FD;
 }
 .developers-title{
+font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 .developers-list{
 }
 .developer-information{
 }
 .developer-name{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;    
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
 .developer-position{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 /*footer section*/
 .footer{
+    background: #2E2F42;
 }
-.footer-link{
+.footer-studio{
+    font-weight: 800;
+        font-size: 18px;
+        line-height: 21px; 
+        letter-spacing: 0.03em;
+    color: #F4F4FD;
 }
 .footer-text{
+font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;  
+    color: #F4F4FD;
 }
+/*Portfolio*/
+ .button-list{
+ }
+ .button-item{
+ }
+ .portfolio-btn{
+ }
+.project-list{
+}
+.project-item{
+}
+ .project-service-name{
+ }
+ .project-service-area{
+ }
+
 
 
 
