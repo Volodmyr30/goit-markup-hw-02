@@ -1,4 +1,13 @@
 /*common styles*/
+:root{
+
+
+
+
+
+
+
+}
 body{
 font-family:Roboto,sans-serif;
 color: #434455;
@@ -48,14 +57,14 @@ font-weight: 500;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.header-list{
+.list{
 }
 .header-item{
 }
 .header-link{
 font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -63,6 +72,7 @@ font-weight: 500;
  color: rgba(64, 75, 191, 1); 
 }
 .header-address{
+font-style: normal;
 }
 .header-address-mail{
     font-weight: 400;
@@ -138,14 +148,15 @@ font-weight: 400;
 .product-images-title{
 font-weight: 700;
     font-size: 36px;
-    line-height: 1,11;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-align: center;
     text-transform: capitalize;
 }
 
-.list{
+.list{ 
+    list-style: none;
  background-color: #FFFFFF;
 }
 .product-images-item{
@@ -157,7 +168,7 @@ font-weight: 700;
 .title-developers{
 font-weight: 700;
     font-size: 36px;
-    line-height: 1,11;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-align: center;
@@ -166,6 +177,7 @@ font-weight: 700;
 .list-developers{background-color: #FFFFFF;
 }
 .developer-information{
+    background-color: #FFFFFF;
 }
 .developer-name{
     font-weight: 500;
