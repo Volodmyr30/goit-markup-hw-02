@@ -162,7 +162,7 @@ font-weight: 700;
     text-align: center;
         text-transform: capitalize;
 }
-.list{background-color: #FFFFFF;
+.list-developers{background-color: #FFFFFF;
 }
 .developer-information{
 }
@@ -183,6 +183,9 @@ font-weight: 700;
 /*footer section*/
 .footer{
     background: #2E2F42;
+}
+.link{
+text-decoration: none;
 }
 .footer-studio{
     font-weight: 800;
