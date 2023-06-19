@@ -31,7 +31,7 @@ font-weight: 500;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.logo{color:rgba(77, 90, 229, 1);
+.logo{color:#4d5ae5
     font-family: Raleway,sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -154,7 +154,7 @@ font-weight: 700;
 .developers-section{
     background: #F4F4FD;
 }
-.developers-title{
+.title-developers{
 font-weight: 700;
     font-size: 36px;
     line-height: 1,11;
