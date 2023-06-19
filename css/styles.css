@@ -185,7 +185,7 @@ font-weight: 700;
 }
 .list-developers{background-color: #FFFFFF;
 }
-.developer-information{
+.developers-information{
     background-color: #FFFFFF;
 }
 .developer-name{
@@ -208,13 +208,11 @@ font-weight: 700;
 }
 .link{
     font-family: Raleway, sans-serif;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-text-decoration: none;
-color: #4d5ae5;
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42
 }
 .footer-studio{
     font-weight: 800;
