@@ -2,7 +2,7 @@
 :root{
 --iris-color:#4D5AE5;
 --ocean-color:#404BBF;
---navy-blue-color:#2E2F42;
+--black-color:#2E2F42;
 --green-color:#31D0AA;
 --slate-color:#434455;
 --light-slate-color:#8E8F99;
@@ -12,6 +12,7 @@
 --grey-color:rgba(46, 47, 66, 0.7);
 --white-color:#FFFFFF;
 --diary-color:#FCFCFC;
+
 }
 body{
 font-family:Roboto,sans-serif;
@@ -85,8 +86,7 @@ font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
-}
+    color:var(--black);}
 .link-header:hover,
 .link-header:focus{
  color: rgba(64, 75, 191, 1);
