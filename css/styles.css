@@ -15,7 +15,7 @@
 
 }
 body{
-font-family:Roboto,sans-serif;
+font-family:Roboto,serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -42,8 +42,6 @@ cursor: pointer;
 .header-nav{
 }
 .link-logo{color:rgba(77, 90, 229, 1);
-    font-family: Roboto, sans-serif;
-        font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -65,7 +63,7 @@ cursor: pointer;
 .header-item{
 }
 .link { 
-    font-family: Roboto, sans-serif;
+    font-family: Roboto,serif;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
