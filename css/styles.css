@@ -64,7 +64,7 @@ cursor: pointer;
 }
 .link { 
     font-family: Roboto,serif;
-        font-weight: 800;
+    font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -83,6 +83,7 @@ color: #4d5ae5;
 }
 .link-header:active{
  background-color:var(--white-color);
+
 }
 .header-address{
 font-style: normal;
@@ -96,7 +97,6 @@ font-style: normal;
     background-color:#2E2F42; ;
 }
 .hero-title{
-        font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
@@ -104,7 +104,6 @@ font-style: normal;
         text-align: center;
 }
 .hero-btn{ 
-    font-weight: 500;
         font-size: 16px;
         line-height: 24px;
         letter-spacing: 0.04em;
@@ -122,7 +121,6 @@ color: #FFFFFF;
 .advantages-item{
 }
 .advantages-name{
-    font-weight: 500;
         font-size: 20px;
         line-height: 1.5;
         letter-spacing: 0.02em;
