@@ -41,22 +41,24 @@ cursor: pointer;
 }
 .header-nav{
 }
-.link-logo{color:rgba(77, 90, 229, 1);
-    font-family: "Raleway",sans-serif;
+.link-logo{
+    font-family:"Raleway",sans-serif;
     font-weight: 500;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: rgba(77, 90, 229, 1);
 
 }
-.studio{color: rgba(46, 47, 66, 1);
-        font-family: Raleway,sans-serif;
+.studio{
+        font-family:"Raleway",sans-serif;
         font-weight: 500;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+        color: rgba(46, 47, 66, 1);
 }
 .link:hover{
     color: #404bbf;
@@ -194,7 +196,7 @@ font-weight: 700;
 }
 
 .footer-studio{
-font-family: "Raleway",sans-serif;
+font-family:'Raleway',sans-serif;
     font-weight: 800;
         font-size: 18px;
         line-height: 21px; 
