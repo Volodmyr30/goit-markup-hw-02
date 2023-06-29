@@ -66,9 +66,11 @@ cursor: pointer;
     color:#404bbf;
 }
 .header-item{
+
 }
 .link { 
     text-decoration: none;
+    color: #2E2F42;
 }
 .link-header{
     font-weight: 500;
