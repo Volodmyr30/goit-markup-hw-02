@@ -43,6 +43,7 @@ cursor: pointer;
 }
 .link-logo{color:rgba(77, 90, 229, 1);
     font-family: Raleway, sans-serif;
+    font-weight: 500;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -50,6 +51,8 @@ cursor: pointer;
 
 }
 .studio{color: rgba(46, 47, 66, 1);
+        font-family: Raleway, sans-serif;
+        font-weight: 500;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -228,6 +231,7 @@ background: #F4F4FD;
 .list-item{
 }
  .list-service-name{
+       font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
