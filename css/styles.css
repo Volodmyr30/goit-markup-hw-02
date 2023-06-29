@@ -83,7 +83,7 @@ color: #4d5ae5;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#2e2f42}
+    color:#434455}
 .link-header:hover,
 .link-header:focus{
  background-color:var(--white-color);
@@ -137,7 +137,7 @@ color: #FFFFFF;
 }
 .advatages-text{
     font-size: 16px;
-    line-height: 1,5;
+    line-height:1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
