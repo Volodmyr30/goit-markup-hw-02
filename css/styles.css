@@ -85,6 +85,13 @@ cursor: pointer;
         letter-spacing: 0.02em;
         color: var(--slate-color);
 }
+.link-address:hover,
+.link-address:focus,
+.link-address:active{
+    background-color: var(--white-color);
+}
+
+
 .link-header:hover,
 .link-header:focus{
  background-color:var(--white-color);
